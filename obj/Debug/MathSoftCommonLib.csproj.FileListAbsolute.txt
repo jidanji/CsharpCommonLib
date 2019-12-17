@@ -1,0 +1,61 @@
+c:\users\maliang.gwfront1\documents\visual studio 2010\Projects\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+c:\users\maliang.gwfront1\documents\visual studio 2010\Projects\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+c:\users\maliang.gwfront1\documents\visual studio 2010\Projects\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+c:\users\maliang.gwfront1\documents\visual studio 2010\Projects\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+c:\users\maliang.gwfront1\documents\visual studio 2010\Projects\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+c:\users\maliang.gwfront1\documents\visual studio 2010\Projects\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
+C:\Users\maliang.GWFRONT1\Desktop\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
+C:\Users\maliang.GWFRONT1\Desktop\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+C:\Users\maliang.GWFRONT1\Desktop\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+C:\Users\maliang.GWFRONT1\Desktop\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maliang.GWFRONT1\Desktop\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maliang.GWFRONT1\Desktop\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月10日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月10日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月10日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月10日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月10日\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月10日\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月27日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月27日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月27日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月27日\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月27日\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+C:\Users\maliang.GWFRONT1\Desktop\马良整理2015年8月27日\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftModelLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\bin\Debug\MathSoftModelLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csprojResolveAssemblyReference.cache
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\Dapper.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftModelLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MySql.Data.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\System.Data.SQLite.DLL
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftModelLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\Dapper.xml
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csprojResolveAssemblyReference.cache
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csproj.CoreCompileInputs.cache
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csproj.CopyComplete
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftModelLib.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MySql.Data.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\System.Data.SQLite.DLL
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\MathSoftModelLib.pdb
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.xml
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csprojAssemblyReference.cache
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csproj.CoreCompileInputs.cache
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csproj.CopyComplete
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
